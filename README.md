@@ -1,1 +1,1 @@
-Weather analysis using HTML and CSS
+Weather analysis website
